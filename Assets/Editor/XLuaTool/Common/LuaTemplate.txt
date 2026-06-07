@@ -1,0 +1,17 @@
+--[[
+    @Author:     #AUTHOR#
+    @DateTime:   #DATETIME#
+    @Description: #DESCRIPTION#
+--]]
+
+local M = {}
+
+function M.Init()
+
+end
+
+function M.Dispose()
+
+end
+
+return M
